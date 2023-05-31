@@ -1,7 +1,7 @@
 import React from "react";
 
 const Form = () =>{
-    
+    console.log('Hello from form.js')
     return (
         <React.Fragment>
             <div>This is  from the form component</div>
